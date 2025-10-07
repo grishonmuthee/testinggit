@@ -1,2 +1,4 @@
 this is my first git project as i learn how to use it. 
 the day is tuesday, 7th october, 2025, 7:28 PM.
+
+first actual changed thing and commited
